@@ -44,7 +44,7 @@ The specific options that we will be provided in our application are:
 ### Project Demo
 
   
-<img  src="Demo Images/ER Diagram.png">  
+<img  src="Demo images/ER Diagram.png">  
 <p align="center" > ER diagram </p>
  <hr>
  
