@@ -48,39 +48,39 @@ The specific options that we will be provided in our application are:
 <p align="center" > ER diagram </p>
  <hr>
  
-<img src="Demo Images/LOGIN PAGE.jpg">
+<img src="images/LOGIN PAGE.jpg">
 <p align="center" >Landing login page </p>
  <hr>
 
-<img  src="Demo Images/SIGNUP PAGE.jpg">
+<img  src="images/SIGNUP PAGE.jpg">
 <p align="center" >Register</p>
 <hr>
   
-<img  src="Demo Images/INDEX PAGE.jpg"> 
+<img  src="images/INDEX PAGE.jpg"> 
 <p align="center" >Home page</p>
 <hr>
 
-<img  src="Demo Images/INDEX PAGE.jpg">
+<img  src="images/INDEX PAGE.jpg">
 <p align="center" >Navbar</p>
  <hr>
 
-<img  src="Demo Images/ANSWRING A QUESTION.jpg"> 
+<img  src="images/ANSWRING A QUESTION.jpg"> 
 <p align="center" >Ask a question</p>
  <hr>
 
-<img  src="Demo Images/SELECTING CATEGORIES FOR THE QUESTION YOU JUST ASKED.jpg">
+<img  src="images/SELECTING CATEGORIES FOR THE QUESTION YOU JUST ASKED.jpg">
 <p align="center" >Question thread</p>
 <hr>
 
-<img  src="Demo Images/ANSWRING A QUESTION.jpg">
+<img  src="images/ANSWRING A QUESTION.jpg">
 <p align="center" >Question thread with answers</p>
 <hr>
 
-<img  src="Demo Images/PROFILE PAGE.jpg">
+<img  src="images/PROFILE PAGE.jpg">
 <p align="center" >Profile page</p>
 <hr>
 
-<img src="Demo Images/CONTACT PAGE.jpg">
+<img src="images/CONTACT PAGE.jpg">
 <p align="center" >Contact information</p>
 <hr>
 
