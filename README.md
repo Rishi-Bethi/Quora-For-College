@@ -1,5 +1,16 @@
 # Quora-For-College
 
+    The application is still in early stages, it can be customized according to usage. We plan on hosting 
+    it as “Aste”, a platform for college students like us to post queries and answer and help out our 
+    peers efficiently. It can be hosted after adding further features like filtering questions by favorite 
+    categories, not allowing a repeated question, tagging an answer, enhancing the profile page like 
+    visiting another user, following them etc, allowing image addition in answers as well. We can also 
+    add posts which will be different from question in respect that they are providing information 
+    instead of asking them. We can also add the option of like and comment in questions and post and 
+    implement machine learning algorithms for better results and searches. After hosting it can be used 
+    for daily purposes to interact with our seniors or alumni or simply help out our classmates and 
+    juniors. This can also be used as a place for collaboration of like-minded people to meet and build 
+    projects and indulge into research with each other.
 
 ### Technologies Used
 
@@ -33,52 +44,44 @@ The specific options that we will be provided in our application are:
 ### Project Demo
 
   
-<img  src="Demo Images/ERD.png">  
+<img  src="Demo Images/ER Diagram.png">  
 <p align="center" > ER diagram </p>
  <hr>
  
-<img src="Demo Images/login.png">
+<img src="Demo Images/LOGIN PAGE.jpg">
 <p align="center" >Landing login page </p>
  <hr>
 
-<img  src="Demo Images/signup.png">
+<img  src="Demo Images/SIGNUP PAGE.jpg">
 <p align="center" >Register</p>
 <hr>
- 
-<img  src="Demo Images/signup2.png">
-<p align="center" >Register </p>
- <hr>
- 
-<img  src="Demo Images/home1.png"> 
+  
+<img  src="Demo Images/INDEX PAGE.jpg"> 
 <p align="center" >Home page</p>
 <hr>
 
-<img  src="Demo Images/home2.png"> 
-<p align="center" >Home page</p>
-<hr>
-
-<img  src="Demo Images/navbar.png">
+<img  src="Demo Images/INDEX PAGE.jpg">
 <p align="center" >Navbar</p>
  <hr>
 
-<img  src="Demo Images/askQues.png"> 
+<img  src="Demo Images/ANSWRING A QUESTION.jpg"> 
 <p align="center" >Ask a question</p>
  <hr>
 
-<img  src="Demo Images/thread1.png">
+<img  src="Demo Images/SELECTING CATEGORIES FOR THE QUESTION YOU JUST ASKED.jpg">
 <p align="center" >Question thread</p>
 <hr>
 
-<img  src="Demo Images/thread2.png">
+<img  src="Demo Images/ANSWRING A QUESTION.jpg">
 <p align="center" >Question thread with answers</p>
 <hr>
 
-<img  src="Demo Images/profile1.png">
+<img  src="Demo Images/PROFILE PAGE.jpg">
 <p align="center" >Profile page</p>
 <hr>
 
-<img src="Demo Images/profile2.png">
-<p align="center" >Profile changing options</p>
+<img src="Demo Images/CONTACT PAGE.jpg">
+<p align="center" >Contact information</p>
 <hr>
 
 
