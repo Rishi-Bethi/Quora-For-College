@@ -1,7 +1,7 @@
 # Quora-For-College
 
     The application is still in early stages, it can be customized according to usage. We plan on hosting 
-    it as “Aste”, a platform for college students like us to post queries and answer and help out our 
+    it, it is a platform for college students like us to post queries and answer and help out our 
     peers efficiently. It can be hosted after adding further features like filtering questions by favorite 
     categories, not allowing a repeated question, tagging an answer, enhancing the profile page like 
     visiting another user, following them etc, allowing image addition in answers as well. We can also 
