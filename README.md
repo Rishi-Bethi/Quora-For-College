@@ -26,7 +26,6 @@
 - VS Code
 - Git and GitHub
 - XAMPP Server
-- PHP Mailer
 - MySQL database
 
 ### Features
